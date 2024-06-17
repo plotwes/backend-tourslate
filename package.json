@@ -1,0 +1,21 @@
+{
+  "name": "tourslate-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^7.8.0",
+    "@hapi/hapi": "^21.3.9",
+    "@tensorflow/tfjs-converter": "^4.20.0",
+    "@tensorflow/tfjs-node": "^4.20.0",
+    "dotenv": "^16.4.5",
+    "firebase-admin": "^12.1.1",
+    "node-fetch": "^3.3.2"
+  }
+}
